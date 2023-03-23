@@ -20,7 +20,8 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I am a Master's student in the [Department of Computer Science](https://www.cs.umd.edu/) at the [TU Darmstadt University](https://www.tu-darmstadt.de/). I am interested in deep learning and NLP. I am currently working as a research assistant at the [UKP-Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) at the TU Darmstadt University.
 
-<i class="fa-brands fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/muhammed-shihebi/)
+<!-- <i class="fab fa-github"></i> [GitHub](https://github.com/muhammed-shihebi) <br />
+<i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/muhammed-shihebi/) -->
 
 
 
