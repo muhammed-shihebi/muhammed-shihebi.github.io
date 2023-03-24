@@ -2,96 +2,129 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Muhammed Sihebi 
     - name: Languages
-      value: English, German
+      value: English, German, Turkish, Arabic
+    - name: E-mail
+      value: <a href="mailto:muhammednurpro@gmail.com">muhammednurpro@gmail.com</a>
+      
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.Sc.
+      institution: Technical University of Darmstadt, Darmstadt, Germany
+      year: 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Expected graduation in October 2024
+        - Focus on AI and NLP-related courses
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Web Development Bootcamp
+      institution: Re:Coded, Non-Profit Organization, New York, USA
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - A 5-month international immersive web development bootcamp
+        - Curriculum developed by Flatiron School, voted the World's Best Coding School in 2020
+        - Topics include Databases, Security, Testing, Architecture, Cloud Computing
+        - Project based learning by working with multiple teams to implement web applications
+        - Final Project - <a href="https://github.com/muhammed-shihebi/backend-capstone-turkey-pebble-work">Pebble Work</a>
+    - title: B.Sc.
+      institution: Turkish-German University, Istanbul, Turkey
+      year: 2017 - 2022
+      description:
+        - "GPA: 3.98/4.00 (University Rank: 2/500+)"
+        - Dissertation on QA systems for medium- or low-resource languages with Transformer models
+        - Focus on AI, Machine and Deep Learning, Data Science, Databases, Software Engineering
+        - German and Turkish Language Studies (one year)
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: UKP-Lab, Technical University of Darmstadt
+      year: 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Comming soon ...
+    - title: Researcher/Developer Intern
+      institution: UKP-SQuARE, Technical University of Darmstadt
+      year: 2022 - 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Implemented an innovative method for real-time information retrieval
+        - Collaborated with a team of skilled master's students to complete the project
+        - Presented the results of our work and prepared a comprehensive written report for submission
+    - title: Developer Intern
+      institution: SmartPulse Technologies, Istanbul, Turkey
+      year: 2021
       description:
+        - Successfully completed two web projects with React, C#, Entity Framework Core and SignalR, further developing my web development skills
+        - Implemented new features in the company's main service, improving its performance and usability
+        - Gained knowledge of development process, agile and scrum methodologies via hands-on experience using Asure DevOps
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Projects and Programming Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+    - title: <a href="https://drive.google.com/file/d/1oLJV-9e27A1toQd_YaPPhyD92O7LYpty/view?usp=share_link">Thesis, Span-Extraction QA Systems Overview (German)</a>  
+      year: 2022
+      description: Implemented a complete span-extraction QA pipeline, experimenting with several pre-trained models from the Huggingface such as M-BERT and XLM-R
+
+    - title: <a href="https://github.com/alshedivat/al-folio">Pebble Work</a> 
+      year: 2022
+      description: 
+        - A Volunteer Event Organizing Platform done at Re:Coded Bootcamp
+        - Developed a full-fledged RESTful API using Express.js and MongoDB and Firebase as databases
+        - Learned professional development best practices
+        - Demonstrated leadership skills while solving problems within a team of five backend developers
+
+    - title: <a href="https://github.com/muhammed-shihebi/tithenai">Tithenai</a>
+      year: 2022
+      description: 
+        - Theses Publication Web App
+        - Developed with React.js and Express.js using Firebase as a database
+    
+    - title: BF1Karte
+      year: 2021
+      description: 
+        - A Data Mining Project
+        - Utilized a variety of ML models & XAI techniques to achieve high performance with limited data
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: The German Academic Exchange Service (DAAD) Scholarship
+      year: 2017 - 2024
+      description: 
+        - Awarded for an initial period of five years to pursue a Bachelor's degree in Computer Science at the Turkish-German University
+        - Extended for an additional two years to pursue a Master's degree in Computer Science at the Technical University of Darmstadt
+
+- title: Skills
+  type: map
+  contents:
+    - name: Programming Languages
+      value: Python, C#, C/C++, Java, JavaScript, HTML, CSS, SQL, Kotlin, XML, etc.
+    - name: Frameworks and Libraries
+      value: React.js, Express.js, Node.js, Vue.js, Bootstrap, Pandas, NumPy, Matplotlib, NLTK, Scikit-Learn, TensorFlow, Keras, PyTorch, Beautiful Soup, .NET Core, JavaFX, etc.
+    - name: Tools and Technologies
+      value: Git, GitHub, GitLab, Docker, Azure DevOps, MongoDB, Heroku, Firebase, Jira, MySQL, SQL Server Management Studio, Unity 2D, etc.
+    - name: Languages
+      value: German (C2), English (C1), Turkish (Fluent), Arabic (Native)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Natural Language Processing (NLP)
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Question Answering
+        - Machine Translation
+    - title: Artificial Intelligence (AI)
       items:
-        - Description 1.
-        - Description 2.
+        - Reinforcement Learning
+        - Computer Vision
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - AI-driven applications, Economics, Modern Literature, Football, Strategic Games ...
