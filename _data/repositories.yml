@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - muhammed-shihebi # My GitHub username
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - muhammed-shihebi/backend-capstone-turkey-pebble-work
+  - muhammed-shihebi/tithenai
+  - muhammed-shihebi/homebook
+  - muhammed-shihebi/report-writer
