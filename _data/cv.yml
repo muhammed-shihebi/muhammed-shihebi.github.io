@@ -12,7 +12,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.Sc.
+    - title: M.Sc. Artificial Intelligence and Machine Learning
       institution: Technical University of Darmstadt, Darmstadt, Germany
       year: 2022 - Present
       description:
@@ -31,7 +31,7 @@
         - Topics include Databases, Security, Testing, Architecture, Cloud Computing
         - Project based learning by working with multiple teams to implement web applications
         - Final Project - <a href="https://github.com/muhammed-shihebi/backend-capstone-turkey-pebble-work">Pebble Work</a>
-    - title: B.Sc.
+    - title: B.Sc. Computer Science
       institution: Turkish-German University, Istanbul, Turkey
       year: 2017 - 2022
       description:
